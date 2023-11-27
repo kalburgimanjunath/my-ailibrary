@@ -1,0 +1,2 @@
+(this["webpackJsonpai-library-example"]=this["webpackJsonpai-library-example"]||[]).push([[0],[,,,function(e,t,a){e.exports=a(10)},function(e,t,a){},,,,,function(e,t,a){},function(e,t,a){"use strict";a.r(t);a(4);var n=a(0),r=a.n(n),i=a(2),c=a.n(i),l="_3ybTi",o=function(e){var t=e.text;return r.a.createElement("div",{className:l},"Example Component: ",t)};a(9);var m=()=>r.a.createElement(o,{text:"Create React Library Example \ud83d\ude04"});c.a.render(r.a.createElement(m,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.1a8ed41e.chunk.js.map
