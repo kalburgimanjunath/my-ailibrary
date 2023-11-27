@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'header'
+import { HeaderComponent } from 'header'
 import 'header/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <HeaderComponent text="Header 😄" />
 }
 
 export default App
